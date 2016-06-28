@@ -91,6 +91,8 @@ alias (anchor dereference?)
 
 Keep chomp modifier ('|+' or '>+').
 
+See [|](#pipe) and [&gt;](#gt)
+
 ### <a name="comma">,</a>
 
 ', ' : Separate in-line branch entries.
@@ -100,6 +102,8 @@ Keep chomp modifier ('|+' or '>+').
 '- ' : Nested series entry indicator.
 
 '-'  : Strip chomp modifier ('|-' or '>-').
+
+See [|](#pipe) and [&gt;](#gt)
 
 '---': Document header.
 
@@ -116,6 +120,8 @@ nothing special?
 ### <a name="digit">0123456789</a>
 
 1-9  : Explicit indentation modifier ('|1' or '>2').
+
+See [|](#pipe) and [&gt;](#gt)
 
 ### <a name="colon">:</a>
 
@@ -186,6 +192,12 @@ see ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### <a name="pipe">|</a>
 
 '|'  : Block scalar indicator.
+
+- Strip leading indentation.
+- Keep final line break but clip any trailing empty lines.
+- Remaining newlines and whitespace are preserved.
+
+'|-' : strip final line break and trailing empty lines
 
 ### <a name="rbrace">}</a>
 
