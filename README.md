@@ -45,8 +45,6 @@ Compiled from the [reference card](http://www.yaml.org/refcard.html).
 
 ## Characters' roles:
 
-<hr>
-
 ### space
 
 (details unknown)
