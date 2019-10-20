@@ -1,5 +1,5 @@
-yaml-reference
-==============
+# yaml-reference
+
 
 For any character, look up what it means in [YAML](http://yaml.org/).
 
