@@ -5,8 +5,8 @@ For any character, look up what it means in [YAML](http://yaml.org/).
 
 Compiled from the [reference card](http://www.yaml.org/refcard.html).
 
-## Table of Contents
-
+## Table of Contents:
+<a href="#space">space</a>
 <a href="#bang">!</a>
 <a href="#quot">"</a>
 <a href="#hash">\#</a>
@@ -43,7 +43,9 @@ Compiled from the [reference card](http://www.yaml.org/refcard.html).
 <a href="#rbrace">}</a>
 <a href="#tilde">~</a>
 
-### SPACE
+## Characters' roles 
+
+### space
 
 (details unknown)
 
