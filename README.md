@@ -6,42 +6,42 @@ For any character, look up what it means in [YAML](http://yaml.org/).
 Compiled from the [reference card](http://www.yaml.org/refcard.html).
 
 ## Table of Contents:
-<a href="#space">space</a>
-<a href="#bang">!</a>
-<a href="#quot">"</a>
-<a href="#hash">\#</a>
-<a href="#dollar">$</a>
-<a href="#percent">%</a>
-<a href="#amp">&amp;</a>
-<a href="#apos">'</a>
-<a href="#lparen">(</a>
-<a href="#rparen">)</a>
-<a href="#asterisk">*</a>
-<a href="#plus">+</a>
-<a href="#comma">,</a>
-<a href="#dash">-</a>
-<a href="#dot">.</a>
-<a href="#slash">/</a>
-<a href="#digit">0123456789</a>
-<a href="#colon">:</a>
-<a href="#semicolon">;</a>
-<a href="#lt">&lt;</a>
-<a href="#equal">=</a>
-<a href="#gt">&gt;</a>
-<a href="#question">?</a>
-<a href="#at">@</a>
-<a href="#uppercase">ABCDEFGHIJKLMNOPQRSTUVWXYZ</a>
-<a href="#lbracket">[</a>
-<a href="#backslash">\\</a>
-<a href="#rbracket">]</a>
-<a href="#caret">^</a>
-<a href="#underscore">_</a>
-<a href="#backquote">`</a>
-<a href="#lowercase">abcdefghijklmnopqrstuvwxyz</a>
-<a href="#lbrace">{</a>
-<a href="#pipe">|</a>
-<a href="#rbrace">}</a>
-<a href="#tilde">~</a>
+<a href="#space">space</a> &nbsp;
+<a href="#bang">!</a> &nbsp;
+<a href="#quot">"</a> &nbsp;
+<a href="#hash">\#</a> &nbsp;
+<a href="#dollar">$</a> &nbsp;
+<a href="#percent">%</a> &nbsp;
+<a href="#amp">&amp;</a> &nbsp;
+<a href="#apos">'</a> &nbsp;
+<a href="#lparen">(</a> &nbsp;
+<a href="#rparen">)</a> &nbsp;
+<a href="#asterisk">*</a> &nbsp;
+<a href="#plus">+</a> &nbsp;
+<a href="#comma">,</a> &nbsp;
+<a href="#dash">-</a> &nbsp;
+<a href="#dot">.</a> &nbsp;
+<a href="#slash">/</a> &nbsp;
+<a href="#digit">0123456789</a> &nbsp;
+<a href="#colon">:</a> &nbsp;
+<a href="#semicolon">;</a> &nbsp;
+<a href="#lt">&lt;</a> &nbsp;
+<a href="#equal">=</a> &nbsp;
+<a href="#gt">&gt;</a> &nbsp;
+<a href="#question">?</a> &nbsp;
+<a href="#at">@</a> &nbsp;
+<a href="#uppercase">ABCDEFGHIJKLMNOPQRSTUVWXYZ</a> &nbsp;
+<a href="#lbracket">[</a> &nbsp;
+<a href="#backslash">\\</a> &nbsp;
+<a href="#rbracket">]</a> &nbsp;
+<a href="#caret">^</a> &nbsp;
+<a href="#underscore">_</a> &nbsp;
+<a href="#backquote">`</a> &nbsp;
+<a href="#lowercase">abcdefghijklmnopqrstuvwxyz</a> &nbsp;
+<a href="#lbrace">{</a> &nbsp;
+<a href="#pipe">|</a> &nbsp;
+<a href="#rbrace">}</a> &nbsp;
+<a href="#tilde">~</a> &nbsp;
 
 ## Characters' roles 
 
@@ -133,7 +133,7 @@ See [|](#pipe) and [&gt;](#gt)
 
 nothing special?
 
-### <a name="">&lt;</a>
+### <a name="lt">&lt;</a>
 
 '<<' : Merge keys from another mapping.
 
