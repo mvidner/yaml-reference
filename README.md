@@ -43,7 +43,7 @@ Compiled from the [reference card](http://www.yaml.org/refcard.html).
 [ <a href="#rbrace">}</a> ] &nbsp;
 [ <a href="#tilde">~</a> ] &nbsp;
 
-## Characters' roles 
+## Characters' roles:
 
 <hr>
 
